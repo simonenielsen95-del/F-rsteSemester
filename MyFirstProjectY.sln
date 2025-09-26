@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrangeTreeSim", "OrangeTree
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrangeTreeTest", "OrangeTreeTest\OrangeTreeTest.csproj", "{3A9EF377-544D-4C2A-A333-EFCD45C73430}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBank", "SimpleBank\SimpleBank.csproj", "{0961C8AF-2668-486D-9ED6-F2463CB5A911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBankTest", "SimpleBankTest\SimpleBankTest.csproj", "{F9E51389-E6C8-4069-91E1-B0797EF8B055}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{3A9EF377-544D-4C2A-A333-EFCD45C73430}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A9EF377-544D-4C2A-A333-EFCD45C73430}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A9EF377-544D-4C2A-A333-EFCD45C73430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0961C8AF-2668-486D-9ED6-F2463CB5A911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0961C8AF-2668-486D-9ED6-F2463CB5A911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0961C8AF-2668-486D-9ED6-F2463CB5A911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0961C8AF-2668-486D-9ED6-F2463CB5A911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9E51389-E6C8-4069-91E1-B0797EF8B055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E51389-E6C8-4069-91E1-B0797EF8B055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E51389-E6C8-4069-91E1-B0797EF8B055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E51389-E6C8-4069-91E1-B0797EF8B055}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
